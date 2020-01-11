@@ -1,5 +1,4 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/isaacwangethi30?label=Follow%20%40isaacwangethi30&style=social)
-![GitHub followers](https://img.shields.io/github/followers/izo30?label=Follow&style=social)
 
 # google-dorker
 A script to search for URLs with parameters worthy testing for vulnerabilities
