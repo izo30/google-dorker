@@ -1,0 +1,10 @@
+url=https
+url=http
+u=https
+u=http
+redirect?https
+redirect?http
+redirect=https
+redirect=http
+link=http
+link=https
