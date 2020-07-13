@@ -16,7 +16,7 @@ git clone https://github.com/izo30/google-dorker.git
 ```
 Install the requirements
 ```
-python3 -m pip install requirements.txt
+python3 -m pip install -r requirements.txt
 ```
 Run the app
 ```
